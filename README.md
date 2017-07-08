@@ -11,4 +11,6 @@
 
 * A BEA API key
     * register [here](https://www.bea.gov/API/signup/index.cfm)
-    * save the key in a variable called `my_bea_key` stored in the folder `src/apiKey`
+    * save the key in a variable called `my_bea_key` in file `beaKey.R` stored in the folder `src/apiKey`
+* the package `bea.R` from CRAN
+    * `install.packages(bea.R)`
