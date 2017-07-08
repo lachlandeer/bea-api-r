@@ -1,2 +1,2 @@
-src/apiKey/*
+src/apiKey/*.R
 out/data/*.csv
